@@ -1,3 +1,0 @@
-/Users/num8er/My/SurrealEngine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/num8er/My/SurrealEngine/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/num8er/My/SurrealEngine/cmake-build-debug/CMakeFiles/SurrealEngine.dir
