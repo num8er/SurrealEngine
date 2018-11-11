@@ -2,7 +2,6 @@
 
 #include "Core.h"
 
-
 namespace SurrealEngine {
 
     class SURREALENGINE_API Application {
@@ -13,4 +12,6 @@ namespace SurrealEngine {
 
         void Run();
     };
+
+    static Application* CreateApplication();
 }
