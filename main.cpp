@@ -1,4 +1,5 @@
 #include "src/SurrealEngine/Application.h"
+#include "src/SurrealEngine/Log.h"
 
 class Game : public SurrealEngine::Application
 {
@@ -15,6 +16,8 @@ public:
 };
 
 int main() {
+    SurrealEngine::Log::Init();
+    LOG_INFO("> main");
 
     Game* game = new Game();
     game->Run();
